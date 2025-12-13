@@ -20,3 +20,5 @@ Ví dụ để chạy bài 1 Python:
 ```bash
 cd Python-Co-Ban
 python bai1.py
+
+test kéo code về máy bằng lệnh pull
